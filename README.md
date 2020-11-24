@@ -6,7 +6,7 @@ API Source: https://openweathermap.org/api
 
 # Contributing
 
-Contribution is highy appreciated because this is what makes open source community an amazing place to grown and learn from.
+Contribution is highy appreciated because this is what makes open source community an amazing place to grow and learn from.
 
 Steps to contribute:
 1. Fork the Project
